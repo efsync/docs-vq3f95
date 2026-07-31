@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-56aead.indocuan-win.sbs/sitemap.xml
